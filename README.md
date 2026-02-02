@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10834811.svg)](https://doi.org/10.5281/zenodo.10834811)
+[![DOI](XYZ)](XYZ)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your-username/mobile-qubit-protection/graphs/commit-activity)
@@ -81,7 +81,7 @@ jupyter notebook
 
 **Note:** Raw experimental data is not hosted on GitHub due to size constraints.
 
-1. Visit the **Zenodo Repository**: [10.5281/zenodo.10834811](https://doi.org/10.5281/zenodo.10834811).
+1. Visit the **Zenodo Repository**: XYZ
 2. Download the raw data archive.
 3. Extract the data. The notebooks utilize `raw_data_loader.py` which expects the path to these HDF5 files. You may need to update the path in `common_scripts` depending on where you extract the files.
 
@@ -139,7 +139,7 @@ If you use this code or data in your research, please cite:
   author = {Krzywda, J. A. and Matsumoto, Y. and De Smet, M. and Tryputen, L. and de Snoo, S.L. and Amitonov, S.V. and van Nieuwenburg, E. and Scappucci, G. and Vandersypen, L.M.K.},
   journal = {arXiv preprint},
   year = {2026},
-  url = {[https://doi.org/10.5281/zenodo.10834811](https://doi.org/10.5281/zenodo.10834811)}
+  url = {XYZ}
 }
 
 ```
