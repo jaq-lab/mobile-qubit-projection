@@ -3,8 +3,7 @@
 
 <div align="center">
 
-[![DOI](XYZ)](XYZ)
-[![Data](https://doi.org/10.5281/zenodo.18470200)](https://doi.org/10.5281/zenodo.18470200)
+[![Zenodo](https://img.shields.io/badge/Data-Zenodo-1682d1)](https://doi.org/10.5281/zenodo.18470200)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your-username/mobile-qubit-protection/graphs/commit-activity)
