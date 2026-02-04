@@ -4,6 +4,7 @@
 <div align="center">
 
 [![DOI](XYZ)](XYZ)
+[![Data](https://doi.org/10.5281/zenodo.18470200)](https://doi.org/10.5281/zenodo.18470200)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your-username/mobile-qubit-protection/graphs/commit-activity)
@@ -180,17 +181,7 @@ If you use this code or data in your research, please cite:
 }
 ```
 
-**Data Citation:**
-```bibtex
-@dataset{zenodo_18470200,
-  author = {Krzywda, J. A. and Matsumoto, Y. and De Smet, M. and Tryputen, L. and de Snoo, S.L. and Amitonov, S.V. and van Nieuwenburg, E. and Scappucci, G. and Vandersypen, L.M.K.},
-  title = {Raw experimental data for: Coherence Protection for Mobile Spin Qubits in Silicon},
-  year = {2026},
-  publisher = {Zenodo},
-  doi = {10.5281/zenodo.18470200},
-  url = {https://doi.org/10.5281/zenodo.18470200}
-}
-```
+
 
 
 ## 📄 License
